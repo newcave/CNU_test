@@ -1,5 +1,16 @@
-streamlit
+# streamlit
+numpy
+pandas
 # pandas 
 # numpy 
 scikit-learn
 matplotlib
+
+
+
+#streamlit
+#scikit-learn
+#sklearn
+#plotly
+#xgboost
+#Pillow
