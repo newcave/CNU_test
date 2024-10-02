@@ -41,7 +41,7 @@ data = {
     'Radiation': np.random.uniform(100, 1000, size=len(date_range)),  # 광량
     'Precipitation': np.random.uniform(0, 120, size=len(date_range)),  # 강수량 (mm)
     'WindSpeed': np.random.uniform(0, 10, size=len(date_range)),  # 풍속 (m/s)
-    'WaterQualityIndex': np.random.uniform(2, 5, size=len(date_range))  # 가상의 수질 지표
+    'WaterQualityIndex': np.random.uniform(2, 500, size=len(date_range))  # 가상의 수질 지표
 }
 
 # 4. DataFrame으로 변환
